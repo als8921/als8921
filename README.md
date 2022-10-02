@@ -1,4 +1,11 @@
-### Hi there 👋
+### Profile
+Andong High School Graduated (2018.03 ~ 2021.02)<br/>
+CNU Autonomous Vehicle System Engineering (2021.03 ~ )
+
+### Contact
+✉️  alscjf2632@gmail.com<br/>
+📞  010-2229-8921
+
 
 <img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor= white"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor= white">
 <img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=C Sharp&logoColor= white">
