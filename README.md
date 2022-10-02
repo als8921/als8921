@@ -5,8 +5,8 @@ CNU Autonomous Vehicle System Engineering (2021.03 ~ )<br/><br/>
 <br/><br/>
 
 # Skills
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor= white"><img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor= white">
-<img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=C Sharp&logoColor= white">
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor= white"><img src="https://img.shields.io/badge/CSharp-239120?style=flat&logo=C Sharp&logoColor= white">
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor= white">
 <br/><br/>
 <img src="https://img.shields.io/badge/Linux-FCC624?style=flat&logo=Linux&logoColor= black">
 <img src="https://img.shields.io/badge/ROS-22314E?style=flat&logo=ROS&logoColor= white">
