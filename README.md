@@ -16,9 +16,7 @@ CNU Autonomous Vehicle System Engineering (2021.03 ~ )<br/><br/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor= white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor= white">
 <br/><br/><br/>
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=als8921&show_icons=true&theme=transparent)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=als8921&show_icons=true&theme=transparent)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=als8921)](https://solved.ac/als8921)[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-<br/><br/><br/>
-<!-- ![als8921's GitHub stats](https://github-readme-stats.vercel.app/api?username=als8921&show_icons=true) -->
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=als8921)](https://solved.ac/als8921)
 
