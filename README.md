@@ -16,9 +16,8 @@ CNU Autonomous Vehicle System Engineering (2021.03 ~ )<br/><br/>
 <img src="https://img.shields.io/badge/Javascript-F7DF1E?style=flat&logo=Javascript&logoColor= white">
 <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=React&logoColor= white">
 <br/><br/><br/>
+![als8921's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=als8921)
 
 | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=als8921&show_icons=true&include_all_commits=true&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=als8921&hide=ShaderLab,HLSL,Shell&langs_count=6&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
 
-<br/><br/><br/>
-![als8921's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=als8921)
