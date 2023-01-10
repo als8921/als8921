@@ -21,5 +21,4 @@ CNU Autonomous Vehicle System Engineering (2021.03 ~ )<br/><br/>
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=als8921)](https://solved.ac/als8921)
 <br/><br/><br/>
 <!-- ![als8921's GitHub stats](https://github-readme-stats.vercel.app/api?username=als8921&show_icons=true) -->
-<br/><br/><br/>
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=als8921&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
