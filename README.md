@@ -21,7 +21,7 @@ CNU Autonomous Vehicle System Engineering (2021.03 ~ )<br/><br/>
 
 <div align="left">
   
-![als8921's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=als8921)
+<a href="https://solved.ac/profile/als8921"><image src="https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=als8921"/></a>
   
 </div>
 
