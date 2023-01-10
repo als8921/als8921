@@ -27,7 +27,7 @@ CNU Autonomous Vehicle System Engineering (2021.03 ~ )<br/><br/>
 
 <div align="center">
   
-  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=als8921&show_icons=true&include_all_commits=true&hide_border=true"/></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=als8921&hide=ShaderLab,HLSL,Shell&langs_count=6&layout=compact&hide_border=true" /></a> |
+  | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=als8921&show_icons=true&include_all_commits=true&hide_border=true"/></a> | <a href="https://github.com/als8921/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=als8921&hide=ShaderLab,HLSL,Shell&langs_count=6&layout=compact&hide_border=true" /></a> |
 | ------------- | ------------- |
   
 </div>
