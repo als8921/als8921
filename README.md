@@ -21,5 +21,4 @@ CNU Autonomous Vehicle System Engineering (2021.03 ~ )<br/><br/>
 | ------------- | ------------- |
 
 <br/><br/><br/>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=als8921)](https://solved.ac/als8921)
-
+![als8921's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=als8921)
