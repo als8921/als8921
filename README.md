@@ -20,8 +20,7 @@
   <img src="https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white" alt="Flutter" />
 </p>
 
----
+<br><br><br>
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=als8921&show_icons=true&include_all_commits=true&count_private=true)
-
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=als8921)](https://solved.ac/als8921)
-
+![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=als8921)
