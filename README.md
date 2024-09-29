@@ -23,4 +23,4 @@
 <br><br><br>
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=als8921&show_icons=true&include_all_commits=true&count_private=true)
-![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=als8921)
+[![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=als8921)](https://solved.ac/profile/als8921)
