@@ -6,7 +6,7 @@
 - (2022.08.19) KABOAT2022 종합 3위 기술혁신상 **[경상남도 도지사상]**
 - (2022.08.19) KABOAT2022 융합 설계상 **[(재)경남로봇랜드]**
   
-## 💻 Skill
+## 💻 Skills
 
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
@@ -15,6 +15,7 @@
 </p>
 
 <p>
+  <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS" />
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
