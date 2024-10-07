@@ -4,7 +4,7 @@
 - (2022.10.07) 2022 창의공학 캡스톤디자인 졸업작품 경진대회 최우수상 **[충남대학교 총장상]**
 - (2022.10.07) 2022 SW-IT Contest 비전공자 부문 대상 **[충남대학교 공과대학장상]**
 - (2022.08.19) KABOAT2022 종합 3위 기술혁신상 **[경상남도 도지사상]**
-- (2022.08.19) KABOAT2022 융합 설계상 **[(재)경남로봇랜드]**
+- (2022.08.19) KABOAT2022 융합 설계상 **[(재)경남로봇랜드재단 원장상]**
   
 ## 💻 Skills
 
@@ -15,6 +15,7 @@
 </p>
 <p>
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=FFFFFF" alt="Unity" />
+  <img src="https://img.shields.io/badge/Arduino-00878F?style=for-the-badge&logo=arduino&logoColor=FFFFFF" alt="Arduino" />
   <img src="https://img.shields.io/badge/ROS-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS1" />
   <img src="https://img.shields.io/badge/ROS2-22314E?style=for-the-badge&logo=ros&logoColor=white" alt="ROS2" />
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
