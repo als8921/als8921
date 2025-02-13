@@ -5,7 +5,7 @@
 <br>
 
 
-## KABOAT 2024 자율운항보트 경진대회 종합 1위(산업통상자원부 장관상)
+## 🏆 2024 KABOAT 자율운항보트 경진대회 "종합 1위(산업통상자원부 장관상)"
 <div style="margin-right: 20px;">
     <img src="images/boats.png" alt="SeaNU_KABOAT2024" width="400" />
 </div>
