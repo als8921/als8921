@@ -4,10 +4,15 @@
 <br>
 <br>
 
-#### [2024 KABOAT 자율운항보트 경진대회 종합 1위 (산업통상자원부 장관상)](https://www.lecturernews.com/news/articleView.html?idxno=164746)
-<img src="images/SeaNU_KABOAT2024.png" alt="SeaNU_KABOAT2024" width="500" />
 
-
+## KABOAT 2024 자율운항보트 경진대회 종합 1위(산업통상자원부 장관상)
+<div style="margin-right: 20px;">
+    <img src="images/boats.png" alt="SeaNU_KABOAT2024" width="400" />
+</div>
+<div>
+      <h4><a href="https://www.lecturernews.com/news/articleView.html?idxno=164746">📄 기사 바로가기</a></h4>
+      <h4><a href="https://youtu.be/IwlfTJ0ziOw">🎥 동영상 바로가기</a></h4>
+</div>
 
 ## 🎖️ Awards
 - (2024.10.06) KABOAT2024 종합 1위 첨단융합기술상 **[산업통상자원부 장관상]**
