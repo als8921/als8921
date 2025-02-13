@@ -1,6 +1,12 @@
 <a href="https://github.com/devxb/gitanimals">
   <img src="https://render.gitanimals.org/farms/als8921" width="1000" height="400"/>
 </a>
+<br>
+<br>
+
+<img src="images/SeaNU_KABOAT2024.png" alt="SeaNU_KABOAT2024" width="500" />
+
+#### [2024 KABOAT 자율운항보트 경진대회 종합 1위 (산업통상자원부 장관상)](https://www.lecturernews.com/news/articleView.html?idxno=164746)
 
 
 ## 🎖️ Awards
