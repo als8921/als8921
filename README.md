@@ -36,7 +36,7 @@
 </p>
 
 
-
+<!-- 
 ## 🏆 2024 KABOAT 자율운항보트 경진대회 "종합 1위(산업통상자원부 장관상)"
 <div style="margin-right: 20px;">
     <img src="images/boats.png" alt="SeaNU_KABOAT2024" width="400" />
@@ -45,9 +45,12 @@
       <h4><a href="https://www.lecturernews.com/news/articleView.html?idxno=164746">📄 기사 바로가기</a></h4>
       <h4><a href="https://youtu.be/IwlfTJ0ziOw">🎥 동영상 바로가기</a></h4>
 </div>
+-->
 
 
 <br><br><br>
 [![hyp3rflow's solved.ac stats](https://github-readme-solvedac.hyp3rflow.vercel.app/api/?handle=als8921)](https://solved.ac/profile/als8921)
 
+<!-- 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=als8921&show_icons=true&include_all_commits=true&count_private=true)
+-->
