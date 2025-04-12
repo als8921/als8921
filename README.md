@@ -7,7 +7,7 @@
 
 ## 📎 **Employment History**
 
-2024.09.02 ~ 2025.02.28 Magenta Robotics Internship (Robotics Software Engineering)
+- (2024.09 ~ 2025.02) Magenta Robotics Internship (Robotics Software Engineering)
 
 ## 🎖️ Awards
 - (2024.10.06) KABOAT2024 종합 1위 첨단융합기술상 **[산업통상자원부 장관상]**
