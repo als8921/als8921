@@ -5,6 +5,10 @@
 <br>
 <br>
 
+## 📎 **Employment History**
+
+2024.09.02 ~ 2025.02.28 Magenta Robotics Internship (Robotics Software Engineering)
+
 ## 🎖️ Awards
 - (2024.10.06) KABOAT2024 종합 1위 첨단융합기술상 **[산업통상자원부 장관상]**
 - (2022.10.07) 2022 창의공학 캡스톤디자인 졸업작품 경진대회 최우수상 **[충남대학교 총장상]**
