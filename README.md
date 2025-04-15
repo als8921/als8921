@@ -15,7 +15,9 @@
 - (2022.10.07) 2022 SW-IT Contest 비전공자 부문 대상 **[충남대학교 공과대학장상]**
 - (2022.08.19) KABOAT2022 종합 3위 기술혁신상 **[경상남도 도지사상]**
 - (2022.08.19) KABOAT2022 융합 설계상 **[(재)경남로봇랜드재단 원장상]**
+
   
+<!-- 
 ## 💻 Skills
 
 <p>
@@ -30,6 +32,7 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux" />
 </p>
 
+
 ## 📖 Studying
 <p>
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C" />
@@ -39,6 +42,7 @@
   <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
 </p>
 
+-->
 
 <!-- 
 ## 🏆 2024 KABOAT 자율운항보트 경진대회 "종합 1위(산업통상자원부 장관상)"
